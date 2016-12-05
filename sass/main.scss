@@ -277,21 +277,7 @@ ul li {
 /* ==========================================================================
 	$Teams
 ========================================================================== */
-.person {
-	max-width: 270px;
-	&-content {
-		margin-top: 20px;
-	}
-	h4 {
-		font-weight: $normal;
-	}
-	h5 {
-		color: $brand-color;
-		font-size: 13px;
-		font-weight: $normal;
-		margin-bottom: 20px;
-	}
-}
+
 .social-icons {
 	margin-top: 30px;
 	li {
@@ -315,47 +301,7 @@ ul li {
 		}
 	}
 }
-/* ==========================================================================
-	$Testimonials
-========================================================================== */
-.testimonials {
-	background-color: #53354a;
-	position: relative;
-	blockquote {
-		border: 0;
-		margin: 0;
-		padding: 100px 15% 0;
-	}
-	p {
-		color: $white;
-		font: italic 36px $font-accent;
-	}
-	cite {
-		color: $white;
-		display: block;
-		font-size: 13px;
-		font-style: normal;
-		font-weight: $semibold;
-		margin-top: 30px;
-		text-transform: uppercase;
-	}
-}
-/* ==========================================================================
-	$Download
-========================================================================== */
-.download {
-	h3 {
-		margin-top: 0;
-	}
-	p {
-		color: $base-color;
-		font-weight: $semibold;
-		text-transform: uppercase;
-	}
-	.btn {
-		margin-top: 30px;
-	}
-}
+
 /* ==========================================================================
 	$Footer
 ========================================================================== */
